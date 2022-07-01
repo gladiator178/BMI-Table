@@ -1,10 +1,5 @@
-#Tilted Page Scroll by Pete R.
+
 Create a beautilful 3D tilted scrolling effect for your website with jQuery Tilted Page Scroll.
-Created by [Pete R.](http://www.thepetedesign.com), Founder of [Travelistly](http://www.Travelistly.com) and [BucketListly](http://www.bucketlistly.com)
-
-
-## Demo
-[View demo](http://peachananr.github.io/tiltedpage_scroll/demo/tiltedpage_scroll_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and smartphones have been tested. I have not tested this on IE.
@@ -45,7 +40,5 @@ That's it for the HTML part. Isn't that easy? Now, you can just call the functio
 
 Now you will have another cool way to showcase your website to your viewers. I hope you find this free plugin useful.
 
-If you want to see more of my plugins, visit [The Pete Design](http://www.thepetedesign.com/#design), or follow me on [Twitter](http://www.twitter.com/peachananr) and [Github](http://www.github.com/peachananr).
 
-## Other Resources
-- Tutorial (Coming Soon)
+
